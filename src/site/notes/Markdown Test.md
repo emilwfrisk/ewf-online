@@ -19,3 +19,10 @@ Går såklart bra att göra en fotnot^[Hejsan så hemskt mycket] inline också.
 
 [^1]: Här kan vi skriva vad vår källa faktiskt är...
 [^bignote]: Okej vad är en bra förklaring här då, vad är ens en bignote..
+
+# Citat
+Görs med > större än tecknet.
+> Jag är inte bara bäst, jag är ödmjuk också.
+> \- Emil
+
+> Human beings face ever more complex and urgent problems, and their effectiveness in dealing with these problems is a matter that is critical to the stability and continued progress of society. \- Doug Engelbart, 1961
