@@ -28,6 +28,24 @@ Görs med > större än tecknet.
 > Human beings face ever more complex and urgent problems, and their effectiveness in dealing with these problems is a matter that is critical to the stability and continued progress of society. \- Doug Engelbart, 1961
 
 # Block
-Tvek..
-> [!Quote]+
+
+> [!Quote]
 > Hej jag är ett block. Väldigt tjusigt faktiskt. Titeln avgör färg, finns keywords. Typ "Bug".
+
+> [!Bug]
+> Hej 
+
+# Kod
+## Inline
+`Hej jag är i backticks, undrar var den knappen finns på tangentbordet...
+`Aha, shift +dubbeltryck på knappent ill vänster om backspace...`
+
+## Kodblock
+tre backticks eller squigglies 
+~~~cs
+static void Main()
+{
+	string name = "John";
+	Console.WriteLine("Hello" + name);
+}
+~~~
