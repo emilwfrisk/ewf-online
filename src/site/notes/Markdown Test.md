@@ -3,3 +3,9 @@
 ---
 
 Dags att testa lite markdown format...
+
+~~~
+Vi gillar kodblock. Väldigt mycket.
+~~~
+
+
