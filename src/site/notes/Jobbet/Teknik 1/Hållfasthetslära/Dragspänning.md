@@ -9,8 +9,7 @@ Dragspänningen kan beräknas enligt:
 
 $$\sigma=\frac{F}{A}$$
 
-$\sigma$ - Dragspänning, $\left[\frac{N}{mm^2}\right][MPa]$
-$\sigma$ - Dragspänning, $[\frac{N}{mm^2}]$
+$\sigma$ - Dragspänning, $[\frac{N}{mm^2}][MPa]$
 $F$ - Kraft, $[N]$
 $A$ - Area, $[mm^2]$
 
