@@ -2,4 +2,8 @@
 {"dg-publish":true,"permalink":"/jobbet/homepage/","tags":["gardenEntry"]}
 ---
 
-Hej. Innehåll nedan.
+
+
+Följande material tillgängligt just nu:
+- [[Jobbet/Teknik 1/Hållfasthetslära/Innehåll\|Hållfasthetslära]]
+- 
