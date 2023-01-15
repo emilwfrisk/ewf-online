@@ -1,0 +1,41 @@
+---
+{"dg-publish":true,"permalink":"/jobbet/teknik-1/hallfasthetslaera/innehall/"}
+---
+
+-  Introduktion
+	- Vad är viktigt?
+	- Begreppet spänning
+	- Olika belastningsfall, 
+	- de två "frågeställningarna, håller det/hur mkt deformation"
+- Dragspänning
+	- Kraft vinkelrät mot tvärsnittsytan
+	- Formel
+- Töjning och förlängning
+	- Formel
+- Dragprov och Elasticitetsmodul
+	- Dragprov som materialtest
+	- Spänning - töjningdiagram
+	- Hookes lag, formel
+	- Begrepp: Sträckgräns, Plastisk deformation, Brottgräns
+	- Begrepp: Hårdhet, varmhållfasthet, utmattning
+- Säkerhetsfaktor
+	- Formel
+- Tryckspänning
+- Skjuvspänning
+	- Formel skjuvspänning, kraften parallell med tvärsnittsytan, Tumregel, dragspänning till skjuvspänning
+	-  (Skjuv-töjning och skjuvmodul, motsv töjning och E-modul?)
+	- Limförband, nitförband, löd/svetsförband, (Muttrar?)
+	- Kälsvetsar
+	- Tillverkning: Stansning, (klipp?)
+- Böjspänning
+	- Böjning = drag- och tryckspänning samtidigt
+	- Formel: Böjspänning, böjmoment, böjmotstånd
+	- Böjmoment med elementarfall
+	- Böjmoment med tvärkrafts- och momentdiagram
+	- Böjmotstånd med tröghetsmoment, steiners sats och tyngdpunkt
+- Nedböjning
+	- Formel, materialdata och elementarfall
+- Dimensionera via både böjspänning och nedböjning
+- Vridning
+- Sammansatta spänningar
+- Knäckning
