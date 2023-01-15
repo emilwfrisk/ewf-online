@@ -7,7 +7,7 @@
 	- Begreppet spänning
 	- Olika belastningsfall, 
 	- de två "frågeställningarna, håller det/hur mkt deformation"
-- Dragspänning
+- [[Jobbet/Teknik 1/Hållfasthetslära/Dragspänning\|Dragspänning]]
 	- Kraft vinkelrät mot tvärsnittsytan
 	- Formel
 - Töjning och förlängning
