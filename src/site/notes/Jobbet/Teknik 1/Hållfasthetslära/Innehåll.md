@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/jobbet/teknik-1/hallfasthetslaera/innehall/"}
 ---
 
--  Introduktion
+-  [[Jobbet/Teknik 1/Hållfasthetslära/Introduktion\|Introduktion]]
 	- Vad är viktigt?
 	- Begreppet spänning
 	- Olika belastningsfall, 
