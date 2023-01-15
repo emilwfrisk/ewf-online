@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jobbet/teknik-1/hallfasthetslaera/introduktion/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/jobbet/teknik-1/hallfasthetslaera/introduktion/"}
 ---
 
 > [!quote] Hållfasthetslära
