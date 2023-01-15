@@ -6,8 +6,9 @@ Dragspänning bla bla testa skriva ut formel:
 
 För dragspänning används den grekiska bokstaven sigma, $\sigma$.
 Dragspänningen kan beräknas enligt:
-$$\sigma=\frac{F}{A}$$
-Där:
-$\sigma$ - Dragspänning, $[N/mm^2]$
-$F$ - Kraft, $[N]$
-$A$ - Area, $[mm^2]$
+> [!INFO] Dragspänning
+>$$\sigma=\frac{F}{A}$$
+>
+>$\sigma$ - Dragspänning, $[\frac{N}{mm^2}]$
+>$F$ - Kraft, $[N]$
+>$A$ - Area, $[mm^2]$
